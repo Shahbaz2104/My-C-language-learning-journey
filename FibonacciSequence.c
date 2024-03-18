@@ -1,20 +1,4 @@
-//#include <stdio.h>
-//
-//int main (){
-//	int num , i = 0;
-//	
-//	printf("\t Fibonacci Numbers \t");
-//	printf("Enter the nth number of Fibonacci Sequence (Enter 0 to quit) : ");
-//	scanf("%d" , &num);
-//
-//
-//    do {
-//     for ( i= 0 , i <= num , i++){
-//     num 	
-//	 }
-//	}while (num != 0);
-//	
-//}
+
 
 
 #include <stdio.h>
